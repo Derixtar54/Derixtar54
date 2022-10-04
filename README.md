@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Subham Jyoti
-- 👀 I’m interested in Web3.0 and blockchain development.
-- 🌱 I’m currently exploring  Blockchain .
+- 👋 Hi, Myself Subham Jyoti Btech from Birla Institute of Technology, Mesra.
+- 👀  Interested in solving real life problems and Web3.0 and blockchain development.
+- 🌱 Currently exploring  Blockchain .
 - 💞️ I’m looking to collaborate on  development on blockchain and open source contribution.
 - 📫 connect me on -subhamjyoti54@gmail.com
 
