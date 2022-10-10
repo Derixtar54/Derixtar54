@@ -1,4 +1,4 @@
-- 👋 Hi, Myself Subham Jyoti Btech from BIT Mesra.
+- 👋 Hi, I am Subham Jyoti ,Btech from BIT Mesra.
 - 👀  Interested in solving real life problems and Web3.0 and blockchain development.
 - 🌱 Currently exploring  Blockchain and DSA.
 - 💞️ I’m looking to collaborate on  development on blockchain and DSA.
